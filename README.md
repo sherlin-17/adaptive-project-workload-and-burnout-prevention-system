@@ -1,0 +1,2 @@
+# adaptive-project-workload-and-burnout-prevention-system
+Adaptive Project Workload and Burnout Prevention System is a smart platform that monitors employee workloads, tasks, and deadlines. It identifies burnout risks and provides insights for balanced task distribution and improved productivity. The system helps organizations enhance employee well-being while ensuring successful project completion.
